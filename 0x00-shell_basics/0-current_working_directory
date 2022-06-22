@@ -1,2 +1,2 @@
 #!/bin/bash
-the second line of the text
+echo "Current working directory is `pwd`"
